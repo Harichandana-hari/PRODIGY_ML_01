@@ -1,4 +1,4 @@
-# Predictive Real Estate Insights: Unlocking Housing Prices with Linear Regression 🏡✨
+# Predicting Housing Prices with Linear Regression 🏡✨
 
 Welcome to my house price prediction project! In this journey, I explored data-driven techniques to unravel the complexities of housing prices. Here’s a detailed overview of the project:
 
